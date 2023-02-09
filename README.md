@@ -1,8 +1,10 @@
-# Pelennor
+# ![](images/Pelennor_logo-02.png){width="137"}
+
+------------------------------------------------------------------------
 
 ## Introduction
 
-**Pelenor** contains a single function, *rohirrim*, which calculates the **Over-prediction rate (OPR)**, **Under-prediction rate (UPR)**, **Potential Presence Increment (PPI)**, and **Potential Absence Increment (PAI)** from a confusion matrix. The confusion matrix must be an object of *class data.frame*. Initially this package was build to accept confMatrix data from SDMtune package, but any object data.frame who contains the parametres for OPR, UPR, PPI and PAI should work.To calculate the metrics, it's necessary 4 data from confMatrix: tn, tp, fn and fp. 
+**Pelenor** contains a single function, *rohirrim*, which calculates the **Over-prediction rate (OPR)**, **Under-prediction rate (UPR)**, **Potential Presence Increment (PPI)**, and **Potential Absence Increment (PAI)** from a confusion matrix. The confusion matrix must be an object of *class data.frame*. Initially this package was build to accept confMatrix data from SDMtune package, but any object data.frame who contains the parametres for OPR, UPR, PPI and PAI should work.To calculate the metrics, it's necessary 4 data from confMatrix: tn, tp, fn and fp.
 
 ## Installation
 
