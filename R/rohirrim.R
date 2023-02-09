@@ -8,19 +8,7 @@
 #'
 #' @export
 #'
-#' @author Rogério Nunes Oliveira
-#'
-#' @examples
-#'
-#' # Calculate confusion matrix and the object is a data.frame
-#'
-#' # Call the rohirrim function
-#'  rohirrim (object)
-#'
-#' #The function provides a data.frame object with all the metrics
-#'    OPR   UPR    PPI    PAI
-#'    0.5   0.5  0.3333 -0.3333
-
+#' @author Rogerio Nunes Oliveira
 rohirrim <- function(obj) {
   tp <- obj$tp
   fp <- obj$fp
