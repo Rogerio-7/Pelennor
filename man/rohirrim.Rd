@@ -16,5 +16,5 @@ A data.frame with the OPR, UPR, PPI, and PAI values.
 This function calculates the OPR, UPR, PPI, and PAI values from the confusion Matrix function.
 }
 \author{
-Rogerio Nunes Oliveira
+Rogério Nunes Oliveira
 }
