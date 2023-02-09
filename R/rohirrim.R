@@ -8,7 +8,7 @@
 #'
 #' @export
 #'
-#' @author Rogerio Nunes Oliveira
+#' @author Rogério Nunes Oliveira
 rohirrim <- function(obj) {
   tp <- obj$tp
   fp <- obj$fp

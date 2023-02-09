@@ -22,7 +22,7 @@ library(Pelennor)
 
 # Use the function rohirrim to calculate the auxiliary metrics
 
-rohirrim(objetc)
+rohirrim(obj)
 
 #The function provides a data.frame object with all the metricas calculated
   OPR   UPR    PPI    PAI
