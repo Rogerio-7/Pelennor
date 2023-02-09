@@ -23,6 +23,8 @@ library(Pelennor)
 rohirrim(objetc)
 
 #The function provides a data.frame object with all the metricas calculated
+  OPR   UPR    PPI    PAI
+  0.5   0.5  0.3333 -0.3333
 ```
 
 ## Citation
