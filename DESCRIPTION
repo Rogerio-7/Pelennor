@@ -1,13 +1,11 @@
 Package: Pelennor
-Title: Calculates OPR, UPR, PPI and PAI
-Version: 0.0.0.1
+Title: Calculates OPR, UPR, PPI and PAI 
+Version: 1.0.0
 Authors@R: 
-    person("Rogerio", "Nunes Oliveira", "rogerio.felino@outlook.com", role = c("aut", "cre"))
-Description: Easy way to calculate ver-prediction rate (OPR), Under-prediction rate (UPR), Potential Presence Increment (PPI), 
-             and Potential Absence Increment (PAI) from a confusion matrix 
-            provided by species distributiion models.
-License: use_gpl3_license()
+    person("Rogério", "Nunes", , "rogerio.felino@outlook.com", role = c("aut", "cre"),
+           comment = c(ORCID = "0000-0002-6706-0791"))
+Description: Calculates the Over-prediction rate (OPR), Under-prediction rate (UPR), Potential Presence Increment (PPI), and Potential Absence Increment (PAI) from a confusion matrix, and the object must be a data.frame with the parametres tn, tp, fn, fp. 
+License: GPL (>= 3)
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.2.3
-Depends: R(>= 4.2.2)

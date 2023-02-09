@@ -7,7 +7,7 @@
 rohirrim(obj)
 }
 \arguments{
-\item{confMatrix}{An object of class data.frame created by the confMatrix function from the SDMtune package.}
+\item{obj}{An object of class data.frame created by the confMatrix function from the SDMtune package.}
 }
 \value{
 A data.frame with the OPR, UPR, PPI, and PAI values.

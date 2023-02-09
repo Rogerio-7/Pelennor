@@ -2,7 +2,7 @@
 #'
 #' This function calculates the OPR, UPR, PPI, and PAI values from the confMatrix function of the SDMtune package.
 #'
-#' @param confMatrix An object of class data.frame created by the confMatrix function from the SDMtune package.
+#' @param obj An object of class data.frame created by the confMatrix function from the SDMtune package.
 #'
 #' @return A data.frame with the OPR, UPR, PPI, and PAI values.
 #'
