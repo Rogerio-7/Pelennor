@@ -20,8 +20,6 @@
 #' #The function provides a data.frame object with all the metrics
 #'    OPR   UPR    PPI    PAI
 #'    0.5   0.5  0.3333 -0.3333
-#'
-#'
 
 rohirrim <- function(obj) {
   tp <- obj$tp
