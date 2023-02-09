@@ -1,6 +1,4 @@
-# ![](images/Pelennor_logo-02.png){width="137"}
-
-------------------------------------------------------------------------
+![](images/Pelennor_logo-04.png)
 
 ## Introduction
 
