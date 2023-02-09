@@ -7,6 +7,21 @@
 #' @return A data.frame with the OPR, UPR, PPI, and PAI values.
 #'
 #' @export
+#'
+#' @author Rogério Nunes Oliveira
+#'
+#' @example
+#'
+#' # Calculate confusion matrix and the object is a data.frame
+#'
+#' # Call the rohirrim function
+#'  rohirrim (object)
+#'
+#' #The function provides a data.frame object with all the metrics
+#'    OPR   UPR    PPI    PAI
+#'    0.5   0.5  0.3333 -0.3333
+#'
+#'
 
 rohirrim <- function(obj) {
   tp <- obj$tp
