@@ -10,7 +10,7 @@
 #'
 #' @author Rogério Nunes Oliveira
 #'
-#' @example
+#' @examples
 #'
 #' # Calculate confusion matrix and the object is a data.frame
 #'

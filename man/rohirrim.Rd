@@ -7,11 +7,14 @@
 rohirrim(obj)
 }
 \arguments{
-\item{obj}{An object of class data.frame created by the confMatrix function from the SDMtune package.}
+\item{obj}{An object of class data.frame.}
 }
 \value{
 A data.frame with the OPR, UPR, PPI, and PAI values.
 }
 \description{
-This function calculates the OPR, UPR, PPI, and PAI values from the confMatrix function of the SDMtune package.
+This function calculates the OPR, UPR, PPI, and PAI values from the confusion Matrix function.
+}
+\author{
+Rogério Nunes Oliveira
 }
