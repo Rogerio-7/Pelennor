@@ -1,6 +1,6 @@
 #' Calculation of Over-prediction rate, Under-prediction rate, Potential Presence Increment, and Potential Aabsence Increment
 #'
-#' This function calculates the OPR, UPR, PPI, and PAI values from the confMatrix function of the SDMtune package, but since uses data.frame, should work with any data who has the following data: tp, tn, fp, fn.
+#' This function calculates the OPR, UPR, PPI, and PAI values from the confusion Matrix function.
 #'
 #' @param obj An object of class data.frame.
 #'
